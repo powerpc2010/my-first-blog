@@ -25,7 +25,7 @@ SECRET_KEY = 'i+^f)d#1xz4v878+_5l4r=-99$s)z8k!oeg@)&v(f3&jlb#vtu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<pavel>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'powerpc2010.pythonanywhere.com']
 
 
 # Application definition
